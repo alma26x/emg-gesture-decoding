@@ -1,0 +1,4 @@
+data/
+emg.zip
+__pycache__/
+*.pyc
